@@ -62,13 +62,3 @@ stem(wt);
 title('bartlett window Sequence');
 xlabel('No. of Samples');
 ylabel('Amplitude');
-
-
-
-
-
-
-
-
-
-
